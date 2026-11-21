@@ -1,6 +1,6 @@
 ;;; quotient.el --- A library for generating random quotes using a text corpus -*- lexical-binding: t -*-
 
-;; Copyright (C) 2025 Tuomo Virolainen
+;; Copyright (C) 2025-2026 Tuomo Virolainen
 
 ;; Author: Tuomo Virolainen <tvirolai@soittakaaparanoid.mail.kapsi.fi>
 
